@@ -3,4 +3,4 @@
 
 [GitHub.io](https://atatakaiocha.github.io "Visit this site")
 
-[The best of the best IOS software developer](https://IrelDev/ "Kirill Pustovalov")
+[The best of the best IOS software developer](https://github.com/IrelDev/ "Kirill Pustovalov")
